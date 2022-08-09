@@ -1,0 +1,19 @@
+---
+title: "Cover_Pengenalan_Bhs_R"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Cover_Pengenalan_Bhs_R}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(DES)
+```

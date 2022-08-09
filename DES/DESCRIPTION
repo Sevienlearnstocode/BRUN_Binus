@@ -1,0 +1,17 @@
+Package: DES
+Type: Package
+Title: Build a discrete event simulation model
+Version: 0.0.1
+Author: I G. A. Anom Yudistira
+Maintainer: I G. A. Anom Yudistira <i.yudistira@binus.ac.id>
+Description: This DES package is an extension of the simmer package, which is used 
+            to assist in building the event simulation model discrete, particularly in
+            the simulation course at Binus University.
+License: Binus University
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1.9000
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
